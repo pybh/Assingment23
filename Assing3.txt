@@ -1,0 +1,15 @@
+Explain Exception handling?
+==> Exception hansdling is hadle error of 3 method 
+1 try()
+2 except()
+4 finally()
+
+What is an Error in Python?
+==>And in exception handling different types of error show like :
+
+1 Syntax error
+2 Name error
+3 Type error
+4 Value error
+5 Key error
+
