@@ -1,0 +1,2 @@
+When is the finally block executed?
+==> finally block is always executed when in try block error raise or not.

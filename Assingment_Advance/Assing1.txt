@@ -1,0 +1,5 @@
+what is file function ?
+
+==> File function is use for create ,read ,write and append of file.two keywords are create and write file.
+1 "x" ==> this keyword is define to create a file 
+2 "w" ==> this keyword is define to write a file 
