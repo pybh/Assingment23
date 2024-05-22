@@ -1,0 +1,20 @@
+1 What is Software?
+==> In a computer system, the software is basically a set of instructions or 
+commands that tell a computer what to do. In other words, the software is a computer program.
+
+2 What are the types of Applications?
+==> types of application:-
+1 Web Devlopment
+2 Software Devlopment
+3 Game Devlopment
+4 AI and Machine Learning
+
+3 What is programing ?
+==> programming is giving a set of instructions to a computer to execute.
+
+4 What is Python?
+==> Python is a hight levelprograming language.
+==> Free open-source language. it is work in any operating system.
+==> Python use to connect database system and data handling.
+==> Python define a many libraies.
+==> Python use to create a web application on server.
