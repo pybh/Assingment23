@@ -1,0 +1,4 @@
+When will the else part of try-except-else be executed?
+
+Ans => 
+The else block Get Executed When There Is A Exception is there except occur. 

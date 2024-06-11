@@ -1,0 +1,5 @@
+What is used to check whether an object o is an instance of class A?
+
+Ans =>
+
+we can check it by is instance function whether an object is an instance of class. 

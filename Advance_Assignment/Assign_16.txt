@@ -1,0 +1,5 @@
+Can one block of except statements handle multiple exception?
+
+Ans => 
+
+A Single Block of Except Statements handle multiple Exception 

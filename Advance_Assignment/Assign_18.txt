@@ -1,0 +1,5 @@
+What happens when „1‟== 1 is executed?
+
+Ans ==> 
+
+when this bloack is executed then output show 1
